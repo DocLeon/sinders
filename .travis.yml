@@ -14,6 +14,6 @@ script: 'bundle exec rake'
 notifications:
   email:
     recipients:
-      - my@email.com
+      - leon.hewitt@gmail.com
     on_failure: change
     on_success: never
