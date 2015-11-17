@@ -1,4 +1,4 @@
-require 'sinders/version'
+require "sinders/version"
 
 module Sinders
   def self.check(id, seconds)
